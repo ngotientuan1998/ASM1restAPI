@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288501813632",
+    "project_id": "assigment-53d77",
+    "storage_bucket": "assigment-53d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288501813632:android:ae71562d2349056d1a7165",
+        "android_client_info": {
+          "package_name": "com.namth.asm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwpyYO8Tw-yPR8oWNIqc9ZKf70_345B00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288501813632:android:73ae64a11c009ede1a7165",
+        "android_client_info": {
+          "package_name": "fpoly.namth.assigment_and"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwpyYO8Tw-yPR8oWNIqc9ZKf70_345B00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
